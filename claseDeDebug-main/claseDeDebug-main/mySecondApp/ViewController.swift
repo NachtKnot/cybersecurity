@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  mySecondApp
-//
-//
-
 import UIKit
 
 class ViewController: UIViewController {
